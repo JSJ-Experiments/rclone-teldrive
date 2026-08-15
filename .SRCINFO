@@ -1,6 +1,6 @@
 pkgbase = rclone-teldrive-git
 	pkgdesc = Rclone with TelDrive v2 API and proxied path-prefix support
-	pkgver = r502.d090c9d
+	pkgver = r10151.d147e4f19
 	pkgrel = 1
 	url = https://github.com/JSJ-Experiments/rclone-teldrive
 	arch = x86_64

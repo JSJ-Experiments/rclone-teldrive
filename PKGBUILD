@@ -1,7 +1,7 @@
 # Maintainer: JadenJSJ <jadenjsj@proton.me>
 
 pkgname=rclone-teldrive-git
-pkgver=r502.d090c9d
+pkgver=r10151.d147e4f19
 pkgrel=1
 pkgdesc='Rclone with TelDrive v2 API and proxied path-prefix support'
 arch=('x86_64')
