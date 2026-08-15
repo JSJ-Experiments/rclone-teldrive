@@ -17,4 +17,4 @@ sudo pacman -U ./rclone-teldrive-git-*.pkg.tar.zst
 ```
 
 The `PKGBUILD` and `.SRCINFO` can also be submitted to the AUR. Since this is a
-git package, `makepkg -si` will rebuild it from the current `main` branch.
+git package, `makepkg -si` will rebuild it from the current `master` branch.

@@ -9,7 +9,7 @@ pkgbase = rclone-teldrive-git
 	conflicts = rclone
 	makedepends = git
 	makedepends = go
-	source = rclone-teldrive::git+https://github.com/JSJ-Experiments/rclone-teldrive.git#branch=main
+	source = rclone-teldrive::git+https://github.com/JSJ-Experiments/rclone-teldrive.git#branch=master
 	sha256sums = SKIP
 
 pkgname = rclone-teldrive-git

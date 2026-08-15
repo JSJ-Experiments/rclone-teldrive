@@ -10,7 +10,7 @@ license=('MIT')
 provides=('rclone')
 conflicts=('rclone')
 makedepends=('git' 'go')
-source=("rclone-teldrive::git+https://github.com/JSJ-Experiments/rclone-teldrive.git#branch=main")
+source=("rclone-teldrive::git+https://github.com/JSJ-Experiments/rclone-teldrive.git#branch=master")
 sha256sums=('SKIP')
 
 pkgver() {
